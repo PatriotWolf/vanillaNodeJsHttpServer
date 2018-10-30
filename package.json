@@ -1,0 +1,11 @@
+{
+  "name": "myownserver",
+  "version": "1.0.0",
+  "description": "serve http without install any dependency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr.Worldwide",
+  "license": "ISC"
+}
